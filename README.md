@@ -1,4 +1,4 @@
-# Rpg-adventure-plataform
+# Rpg Storage
 
 ## Tecnologias usadas no projeto 
 <ul>
@@ -6,7 +6,7 @@
   <li>Sqlite</li>
   <li>Node</li>
 </ul>
-<h3>O que é o Rpg-adventure-plataform</h3>
+<h3>O que é o Rpg Storage</h3>
 <p>
   Uma plataforma para quem gosta de rpg poder registrar aventuras ou seja registrar as historias que tenham em mente pra mestrar, a proposta da plataforma e ajudar o mestre a registrar as aventuras de maneira rapida e facil e tambem que facilite pra alterar as aventuras todas as aventuras são guardadas no  banco de dados junto com os usuarios
 </p>
