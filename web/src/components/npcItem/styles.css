@@ -1,0 +1,18 @@
+.adventure-npc {
+  width: 1300px;
+  padding: 10px;
+  background: #29292b;
+  border-radius: 10px;
+  margin-left: 1.3rem;
+}
+
+.adventure-npc .description {
+  margin-left: 1.7rem;
+  width: 1230px;
+  padding: 10px;
+  background: #1f1f21;
+  border-radius: 5px;
+}
+.adventure-npc-title {
+  margin-left: 2rem;
+}

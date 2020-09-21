@@ -1,0 +1,37 @@
+.wellcome-message {
+    text-align: center;
+    color: #Fff;
+}
+.text-landing {
+    position: relative;
+    top: 2rem;
+    margin-left: 2rem;
+    width: 614px;
+    height: 84px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #F2E9E9;
+
+}
+
+.footer-landing {
+    text-align: center;
+    padding-top: 0.5rem;
+    position: fixed;
+    top: 37.23rem;
+    height: 70px ;
+    width: 100%;
+    background: #29292B;
+}
+
+.landing-image img {
+    width: 450px;
+    position: relative;
+    left: 49rem;
+    top: -6rem;
+    border: 1px solid #232222;
+    box-sizing: border-box;
+    border-radius: 10px;
+}

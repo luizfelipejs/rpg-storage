@@ -1,0 +1,17 @@
+.input-block input {
+    display: block;
+    color: #fff;
+    width: 767px;
+    height: 60px;
+    border: 0;
+    background: #414049;
+    font-family: 'Roboto';
+    border-radius: 8px;
+    position: relative;
+    padding-left: 1rem;
+    top: 0.3rem;
+}
+
+.input-block {
+    margin-bottom: 1rem;
+}

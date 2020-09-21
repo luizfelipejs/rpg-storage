@@ -1,0 +1,48 @@
+.header-page {
+    width: 100%;
+    height: 100px;
+    background: #29292B;
+    top: -1rem;
+    position: relative;
+    color: #fff;
+}
+
+.header-links ul {
+    position: relative;
+    top: 0rem;
+    right: 1rem;
+}
+
+.header-links ul li {
+    display: inline-block;
+    margin: 2rem;
+    border-bottom: 1.5px #ffff solid;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+}
+
+.header-links ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header-links ul .logo {
+    position: relative;
+    top: 0.1rem;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    border: 0;
+}
+.header-links ul li button {
+    background: none;
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    border: 0;
+}

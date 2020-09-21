@@ -1,0 +1,14 @@
+.input-block textarea {
+    width: 766px;
+    display: block;
+    height: 294px;
+    background: #414049;
+    font-family: 'Roboto';
+    border-radius: 8px;
+    position: relative;
+    top: 0.3rem;
+    resize: vertical;
+    height: 200px;
+    color: #fff;
+    padding-left: 1rem;
+}

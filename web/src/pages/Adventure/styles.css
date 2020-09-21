@@ -1,0 +1,33 @@
+.adventure-title {
+  font-weight: normal;
+  font-size: 25px;
+  margin-left: 2rem;
+}
+.description-adventure {
+  width: 1300px;
+  background: #29292b;
+  border-radius: 7px;
+  margin-left: 1.3rem;
+  padding: 10px;
+}
+.description-adventure p {
+  position: relative;
+  width: 1223px;
+  left: 1.7rem;
+}
+.adventure-location span {
+  width: 86px;
+  padding-left: 0.6rem;
+  padding-top: 0.5rem;
+  height: 38px;
+  display: flex;
+  margin-left: 15rem;
+  margin-top: -1.7rem;
+  background: #528fd7;
+  border-radius: 5px;
+}
+.adventure-location {
+  position: relative;
+  margin-top: 1rem;
+  margin-left: 1.9rem;
+}

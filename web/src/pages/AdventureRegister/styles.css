@@ -1,0 +1,53 @@
+.form-adventure {
+    position: relative;
+    margin-left: 23%;
+}
+
+.npcs {
+    position: relative;
+    top: 2rem;
+}
+
+.addNpc {
+    position: relative;
+    left: 40.5rem;
+    top: 1rem;
+    border: 0;
+    color: #fff;
+    width: 6rem;
+    height: 1.7rem;
+    background: #528FD7;
+    border-radius: 7px;
+    opacity: 0.5;
+    transition: opacity 0.4s;
+}
+
+.addNpc:hover {
+    opacity: 1;
+}
+
+.schedule-npc {
+    border-bottom: 1px solid #fff;
+    margin-bottom: 1rem;
+    width: 766px
+}
+
+.npc-logo {
+    position: relative;
+    top: 4rem;
+    font-weight: normal;
+}
+
+.submit {
+    width: 766px;
+    height: 70px;
+    border: 0;
+    background: #4A8461;
+    border-radius: 7px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+}

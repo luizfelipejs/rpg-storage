@@ -1,0 +1,11 @@
+ul.adventures {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+    gap: 1rem;
+    margin-left: 3rem;
+}
+.profile-title {
+    font-weight: 300;
+    text-align: center;
+}

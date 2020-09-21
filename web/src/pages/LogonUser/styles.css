@@ -1,0 +1,43 @@
+.logonUser-form {
+  width: 412px;
+  height: 500px;
+  background: #2c2b30;
+  border-radius: 11px;
+  margin: auto;
+  margin-top: 4rem;
+}
+
+.logonUser-form h1 {
+  margin-left: 106px;
+  position: relative;
+  top: 2.5rem;
+}
+.logonUser-form p {
+  position: relative;
+  font-size: 14pt;
+  margin-left: 145px;
+  top: 2rem;
+}
+
+.logon {
+  width: 342px;
+  height: 54px;
+  position: relative;
+  background: #528fd7;
+  border-radius: 8px;
+  border: 0;
+  left: 2.3rem;
+  top: 7rem;
+  color: #fff;
+}
+
+.logonUser-form .input-block input {
+  width: 342px;
+  height: 3.2rem;
+}
+
+.logonUser-form .input-block {
+  position: relative;
+  top: 4rem;
+  left: 2.3rem;
+}

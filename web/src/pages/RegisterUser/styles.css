@@ -1,0 +1,41 @@
+.register-form .input-block input{
+    width: 372px;
+    height: 44px;
+}
+
+.register-form {
+    width: 440px;
+    height: 500px;
+    background: #2C2B30;
+    border-radius: 11px;
+    padding: 10px;
+    margin-left: 34%;
+    margin-top: 6%;
+}
+
+.register-form .submit {
+    margin-top: 3rem;
+    width: 372px;
+    margin-left: 1.5rem;
+    height: 54px;
+    border: 0;
+    background: #528FD7;
+    border-radius: 8px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 28px;
+}
+
+.register-form .input-block {
+    margin-left: 1.5rem;
+}
+
+.register-form h1 {
+    margin-left: 6rem;
+}
+
+.register-form p {
+    margin-left: 9rem;
+}
